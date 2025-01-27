@@ -9,3 +9,4 @@
 # Ignore build artifacts
 *.jar
 *.war
+/target/
