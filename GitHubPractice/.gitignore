@@ -1,1 +1,11 @@
-/target/
+# Ignore compiled Java files
+*.class
+
+# Ignore Eclipse-specific files
+.project
+.classpath
+.settings/
+
+# Ignore build artifacts
+*.jar
+*.war
